@@ -16,7 +16,7 @@
         return dialog;
     }
 
-#create custome_loader.xml file and write this script
+# create custome_loader.xml file and write this script
 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
